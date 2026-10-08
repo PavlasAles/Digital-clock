@@ -69,13 +69,7 @@
           "thermal_relief_spoke_width": 0.5
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        }
-      ],
+      "diff_pair_dimensions": [],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -209,10 +203,7 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [
-        0.0,
-        0.7
-      ],
+      "track_widths": [],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -239,12 +230,7 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [
-        {
-          "diameter": 0.0,
-          "drill": 0.0
-        }
-      ],
+      "via_dimensions": [],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -671,17 +657,17 @@
     "top_level_sheets": [
       {
         "filename": "hodiny.kicad_sch",
-        "name": "hodiny",
-        "uuid": "3bdad5a4-ab94-4e3c-826b-7f2a950d5d1b"
+        "name": "Hlavní",
+        "uuid": "cb813866-efe5-439a-a66f-c4a363284cea"
       }
     ],
-    "used_designators": "Y1,A1-2,DS1-11,U1-12,#PWR1-38,BT1,R1-42",
+    "used_designators": "Y1,A1-2,D1-2,#PWR1-7,T1,U1-2,J1,F1-2,C1-4,SW1",
     "variants": []
   },
   "sheets": [
     [
-      "3bdad5a4-ab94-4e3c-826b-7f2a950d5d1b",
-      "hodiny"
+      "cb813866-efe5-439a-a66f-c4a363284cea",
+      "Hlavní"
     ]
   ],
   "text_variables": {},
